@@ -1,13 +1,4 @@
-import com.sun.istack.internal.NotNull;
-import com.sun.istack.internal.Nullable;
 
-import java.util.List;
-
-public class QMP1 {
-
-}
-
-//tempreratura, sol , lluvia, viento, tu vieja xd
 
 class Atuendo {
     List<Prenda> prendas;
